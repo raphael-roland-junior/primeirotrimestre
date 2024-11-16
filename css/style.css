@@ -1,0 +1,50 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    color: #f03856;
+    font-size: 2rem;
+}
+
+h4 a {
+    color: #db6478;
+}
+
+h4 a:hover {
+    color: #f03856;
+}
+
+a {
+    color: #db6478;
+}
+
+a:hover {
+    color: #f03856;
+}
+
+section {
+    margin-top: 20px;
+}
+
+.textinho {
+    font-size: 1rem;
+}
+
+.cardflor {
+    background-color: rgb(236, 236, 236);
+    padding: 8px;
+    border-radius: 10px;
+}
+
+section {
+    width: 800px;
+    padding: 20px;
+    margin: auto;
+    background-color: whitesmoke;
+    border-radius: 10px;
+}
+
+.home {
+    width: 1200px;
+}
